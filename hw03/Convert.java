@@ -2,7 +2,9 @@
 Sean Nork
 CSE02
 2/13/16
-Homework 3
+Homework 3: Convert.java
+The purpose of this program is to take a user input in
+meters and convert it to inches
 
 */
 
@@ -13,7 +15,7 @@ public class Convert {
     
     public static void main (String [] args) {
         
-        Scanner myScanner = new Scanner( System.in );
+        Scanner myScanner = new Scanner( System.in ); //initialize scanner
         
         System.out.println("Enter the distance in meters: "); //ask for distance (m)
         

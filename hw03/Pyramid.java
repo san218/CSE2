@@ -1,10 +1,4 @@
-/*Write a program that prompts the user for the dimensions of a pyramid and returns the volume inside the pyramid. Save the program in the file Pyramid.java. The measurements should be of type double.
 
-Here are some sample runs:
-The square side of the pyramid is (input length): 25
-The height of the pyramid is (input height): 15
-
-The volume inside the pyramid is: 3125.*/
 
 /*Sean Nork
 CSE02
@@ -24,15 +18,13 @@ public class Pyramid {
         Scanner myScanner = new Scanner( System.in ); //initialize scanner
         
         System.out.println("Enter the length of the base of the square pyramid (meters): ");
-        double pyramidLength = myScanner.nextDouble();
+        double pyramidLength = myScanner.nextDouble();//takes value for length of base
         System.out.println("Enter the height of the pyramid (meters): ");
-        double pyramidHeight = myScanner.nextDouble();
+        double pyramidHeight = myScanner.nextDouble();//takes value for height
         
-        double pyramidVolume = (pyramidLength*pyramidLength*pyramidHeight/3);
+        double pyramidVolume = (pyramidLength*pyramidLength*pyramidHeight/3);//calculates volume (1/3*l*w*h)
         System.out.println("The total Volume of the pyramid is: "+ pyramidVolume + " meters cubed");
-        
-        
-        
+        //prints out solution
         
     }
     
