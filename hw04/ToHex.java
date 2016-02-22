@@ -64,22 +64,22 @@ import java.util.*; //import everything
         //switch statement to determine hex values from 11-16
             switch (Rd) {
                 
-                case 11:
+                case 10:
                     MyRi = "A";
                     break;
-                case 12:
+                case 11:
                     MyRi = "B";
                     break;
-                case 13:
+                case 12:
                     MyRi = "C";
                     break;
-                case 14:
+                case 13:
                     MyRi = "D";
                     break;
-                case 15:
+                case 14:
                     MyRi = "E";
                     break;
-                case 16:
+                case 15:
                     MyRi = "F";
                     break;
                 default:
@@ -89,22 +89,22 @@ import java.util.*; //import everything
             //switch statement to determine hex values from 11-16
              switch (Gd) {
                 
-                case 11:
+                case 10:
                     MyGi = "A";
                     break;
-                case 12:
+                case 11:
                    MyGi = "B";
                     break;
-                case 13:
+                case 12:
                     MyGi = "C";
                     break;
-                case 14:
+                case 13:
                     MyGi = "D";
                     break;
-                case 15:
+                case 14:
                     MyGi = "E";
                     break;
-                case 16:
+                case 15:
                     MyGi = "F";
                     break;
                 default:
@@ -114,22 +114,22 @@ import java.util.*; //import everything
             //switch statement to determine hex values from 11-16
              switch (Bd) {
                 
-                case 11:
+                case 10:
                     MyBi = "A";
                     break;
-                case 12:
+                case 11:
                     MyBi = "B";
                     break;
-                case 13:
+                case 12:
                     MyBi = "C";
                     break;
-                case 14:
+                case 13:
                     MyBi = "D";
                     break;
-                case 15:
+                case 14:
                     MyBi = "E";
                     break;
-                case 16:
+                case 15:
                     MyBi = "F";
                     break;
                 default:
@@ -141,22 +141,22 @@ import java.util.*; //import everything
             
             switch (Rf) {
                 
-                case 11:
+                case 10:
                     MyRf = "A";
                     break;
-                case 12:
+                case 11:
                     MyRf = "B";
                     break;
-                case 13:
+                case 12:
                     MyRf = "C";
                     break;
-                case 14:
+                case 13:
                     MyRf = "D";
                     break;
-                case 15:
+                case 14:
                     MyRf = "E";
                     break;
-                case 16:
+                case 15:
                     MyRf = "F";
                     break;
                 default:
@@ -166,22 +166,22 @@ import java.util.*; //import everything
             }
              switch (Gf) {
                 
-                case 11:
+                case 10:
                     MyGf = "A";
                     break;
-                case 12:
+                case 11:
                     MyGf = "B";
                     break;
-                case 13:
+                case 12:
                     MyGf = "C";
                     break;
-                case 14:
+                case 13:
                     MyGf = "D";
                     break;
-                case 15:
+                case 14:
                     MyGf = "E";
                     break;
-                case 16:
+                case 15:
                     MyGf = "F";
                     break;
                 default:
@@ -191,22 +191,22 @@ import java.util.*; //import everything
             }
              switch (Bf) {
                 
-                case 11:
+                case 10:
                     MyBf = "A";
                     break;
-                case 12:
+                case 11:
                     MyBf = "B";
                     break;
-                case 13:
+                case 12:
                     MyBf = "C";
                     break;
-                case 14:
+                case 13:
                     MyBf = "D";
                     break;
-                case 15:
+                case 14:
                     MyBf = "E";
                     break;
-                case 16:
+                case 15:
                     MyBf = "F";
                     break;
                 default:
