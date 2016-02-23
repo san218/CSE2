@@ -1,6 +1,9 @@
 /*
+Sean Nork
 hw04
-works, just need to comment it out.
+The purpose of this program is to take a user input for
+RGB values (0-255) and convert the values into hex, and 
+print out the result.
 
 */
 import java.util.Scanner; //allows for user input
@@ -61,7 +64,7 @@ import java.util.*; //import everything
             String MyGf="";
             String MyBf="";
         
-        //switch statement to determine hex values from 11-16
+        //switch statement to determine hex values from 10-15
             switch (Rd) {
                 
                 case 10:
@@ -111,7 +114,7 @@ import java.util.*; //import everything
                     MyGi = "" + Gd;
                     break;
             }
-            //switch statement to determine hex values from 11-16
+            //switch statement to determine hex values from 10-15
              switch (Bd) {
                 
                 case 10:
@@ -136,7 +139,7 @@ import java.util.*; //import everything
                     MyBi = "" + Bd;
                     break;
                     
-                 //switch statement to determine hex values from 11-16
+                //switch statement to determine hex values from 10-15
             }
             
             switch (Rf) {
@@ -162,7 +165,7 @@ import java.util.*; //import everything
                 default:
                     MyRf = "" + Rf;
                     break;
-                    //switch statement to determine hex values from 11-16
+                    //switch statement to determine hex values from 10-15
             }
              switch (Gf) {
                 
@@ -187,7 +190,7 @@ import java.util.*; //import everything
                 default:
                     MyGf = "" + Gf;
                     break;
-                    //switch statement to determine hex values from 11-16
+                    //switch statement to determine hex values from 10-15
             }
              switch (Bf) {
                 
