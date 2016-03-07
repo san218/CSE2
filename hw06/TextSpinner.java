@@ -1,6 +1,10 @@
 /*
-
-
+Sean Nork
+Homework 6, Part 3
+Text Spinner
+The purpose of this program is to print these 4 symbols in an
+infinite loop, while using the back space, to give the 
+effect of a spinning line. 
 */
 public class TextSpinner {
     

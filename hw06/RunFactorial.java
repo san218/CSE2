@@ -1,6 +1,7 @@
 /*
 Sean Nork
 CSE2
+Homework 6, part 2
 3/6
 The purpose of this program is to calculate the factorial
 of a user entered number ranging from 9 to 16.
